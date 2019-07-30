@@ -6,6 +6,8 @@ Some APIs are provided, please check the Jupyter Notebook [ASER.ipynb](ASER.ipyn
 
 Project and data homepage is [https://hkust-knowcomp.github.io/ASER](https://hkust-knowcomp.github.io/ASER/).
 
+Here is the arxiv [link](https://arxiv.org/abs/1905.00270).
+
 Citation:
 
     @article{ASER2019,
